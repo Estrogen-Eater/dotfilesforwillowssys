@@ -1,0 +1,13 @@
+# Package repositories
+deb http://deb.devuan.org/merged/ daedalus main contrib non-free non-free-firmware 
+deb http://deb.devuan.org/merged/ daedalus-security main contrib non-free non-free-firmware 
+deb http://deb.devuan.org/merged/ daedalus-updates main contrib non-free non-free-firmware 
+deb http://deb.devuan.org/merged/ daedalus-proposed-updates non-free-firmware main  
+deb http://deb.devuan.org/merged/ daedalus-backports non-free-firmware main  
+
+# Source repositories
+deb-src http://deb.devuan.org/merged/ daedalus non-free-firmware main  
+deb-src http://deb.devuan.org/merged/ daedalus-updates non-free-firmware main  
+deb-src http://deb.devuan.org/merged/ daedalus-security non-free-firmware main  
+deb-src http://deb.devuan.org/merged/ daedalus-backports non-free-firmware main  
+
